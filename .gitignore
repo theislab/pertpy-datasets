@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.h5ad
+data/
+.DS_Store
