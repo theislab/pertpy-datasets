@@ -159,3 +159,7 @@ node_modules
 *.parquet
 *.pkl
 *.json
+
+# lamin
+test.ipynb
+*/test-perturbation
